@@ -12,8 +12,8 @@ RGB Voron Logos in the V0.2 Skirts using the amazing [Rainbow Barf Logo LED](htt
 
 ## Printing
 
-Print 2 [[c]_logo_insert_x2.stl](./STL/%5Bc%5D_logo_insert_x2.stl) in a clear or white filament 
-Print 2 [[o]_rainbow_barf_carrier_x2.stl](./STL/%5Bo%5D_rainbow_barf_carrier_x2.stl) in an opaque filament to prevent light bleed.
+- Print 2 [[c]_logo_insert_x2.stl](./STL/%5Bc%5D_logo_insert_x2.stl) in a clear or white filament 
+- Print 2 [[o]_rainbow_barf_carrier_x2.stl](./STL/%5Bo%5D_rainbow_barf_carrier_x2.stl) in an opaque filament to prevent light bleed.
 
 
 ## Assembly
